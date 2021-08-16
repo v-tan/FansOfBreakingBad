@@ -1,0 +1,2 @@
+rootProject.name = "Fans of Breaking Bad"
+include ':app'
